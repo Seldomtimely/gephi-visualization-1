@@ -60,7 +60,7 @@ canvas#sigma_bg_1 {
     bottom:0;
     top:0;
     right:0;
-	width: 240px;
+	width: 200px;
 	background-color: #fff;
 	margin: 0;
 	word-wrap: break-word;
@@ -246,7 +246,7 @@ padding: 0px 0 0 0;
 }
 
 #mainpanel .col {
-width: 240px;
+width: 200px;
 padding: 18px 18px 18px 18px;
 margin: 0;
 
